@@ -1,0 +1,2 @@
+# UMZ
+Repozytorium przedmiotu UMZ
