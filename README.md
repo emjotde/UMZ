@@ -1,4 +1,4 @@
-# UMZ
+# UMZ - Uczenie Maszynowe
 Repozytorium przedmiotu UMZ:
 
 Z poziomu wiersza poleceń pod Linuxem wykonaj:
